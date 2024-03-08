@@ -65,7 +65,7 @@ body{
 /* java script  */
 
 .hide{
-    /* visibility:  hidden;  */
+    visibility:  hidden; 
 
 }
 .rotate{
